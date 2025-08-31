@@ -1,7 +1,7 @@
 ## Olá! 👋
 
 - 🔭 Querendo trabalhar com front
-- 🌱 Estudndo typescript
+- 🌱 Estudando typescript
 - 📫 Pode me achar no email=denersilva805@gmail.com.
 - 😄 Ele/Dele
 
